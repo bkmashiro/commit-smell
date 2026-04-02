@@ -7,6 +7,7 @@ export interface ReportData {
   branch: string;
   totalCommits: number;
   days: number;
+  commits: CommitRecord[];
   wipCommits: CommitRecord[];
   whitespaceOnlyCommits: CommitRecord[];
   unstableFiles: UnstableFile[];
