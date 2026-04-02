@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/commit-smell)](https://www.npmjs.com/package/commit-smell) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # commit-smell
 
 `commit-smell` is a CLI that audits git history for commit quality problems and produces a simple scorecard.
